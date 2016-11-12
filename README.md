@@ -308,7 +308,7 @@
   - [vue-contextable](https://github.com/xpepermint/vue-contextable): [Contextable.js](https://github.com/xpepermint/contextablejs) plugin for Vue.js 2.0. Form validation has never been easier!
 
 - #### UI Components
-
+  - [simple-rating ★1] (https://github.com/kaankilic/simple-rating): A Vue.js component for the creating star based or any font-awesome icon based rating view or form by @kaankilic
   - [vue-countup ★11](https://github.com/samcrosoft/vue-countup): A Vue.js component for the very interesting [CountUp.js](https://inorganik.github.io/countUp.js/) plugin. <sup>1.0 compatible</sup>
   - [Vue Tag Editor Component ★24](https://github.com/hnakamur/vue.tag-editor.js) by @hnakamur
   - [Vue Crop](http://pespantelis.github.io/vue-crop/)
